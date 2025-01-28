@@ -1,4 +1,4 @@
-# article
-My article
-
-<iframe src="https://www.luogu.com.cn/" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="512"></iframe>
+# My Article / Blog
+**Hi there 👋** 欢迎来到我的Blog~
+你可以看看：
+- [暴力搜索的应用](./搜索的应用.md)
