@@ -22,9 +22,7 @@ layout: table_wrappers
       {% include components/breadcrumbs.html %}
       <div id="main-content" class="main-content">
         <main>
-            {{ content }}
-          <!-- {% endif %} -->
-
+          {{ content }}
           {% if page.has_toc != false %}
             {% include components/children_nav.html %}
           {% endif %}
