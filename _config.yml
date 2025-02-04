@@ -64,8 +64,8 @@ plugins:
 
 markdown: kramdown
 kramdown:
-  math_engine: mathjax
+  math_engine: mathjax         # 明确指定 mathjax 引擎
   syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+  parse_block_html: true       # 允许解析 HTML 块中的内容
+  input: GFM                   # 兼容 GitHub Flavored Markdown
+  entity_output: as_input     # 禁止自动转义特殊字符
