@@ -3,7 +3,7 @@
 ## 写在前面
 
 众所周知，现在 DeepSeek 十分的火爆，官网也~~有一点抽风~~遭受了 DDOS 攻击，API 也无法注册。
-<img src="https://cdn.luogu.com.cn/upload/image_hosting/x4zdj8op.png" alt="DeepSeek 官网服务器繁忙" style="zoom:50%;" />
+![DeepSeek 官网服务器繁忙](https://cdn.luogu.com.cn/upload/image_hosting/x4zdj8op.png)
 所以，我们可以使用本地运行来避免这些问题，这也是本文章介绍的内容。So, let's go~
 
 ## 部署
@@ -26,7 +26,7 @@
 
 这里以 Windows 为例，打开安装程序之后点击 Install 就好了。
 
-<img src="https://cdn.luogu.com.cn/upload/image_hosting/bjznllti.png" alt="Windows Example" style="zoom:33%;" />
+![Windows Example](https://cdn.luogu.com.cn/upload/image_hosting/bjznllti.png)
 
 安装完成后，可以看到 Ollama 的图标。~~（可爱捏）~~
 
@@ -40,15 +40,15 @@
 
 如果你也需要使用 R1，可以直接点击[这里](https://ollama.com/library/deepseek-r1)。
 
-<img src="https://cdn.luogu.com.cn/upload/image_hosting/8g4z2x0y.png" style="zoom: 50%;" />
+![](https://cdn.luogu.com.cn/upload/image_hosting/8g4z2x0y.png)
 
 我们这里以 R1 为例，选择搜索结果中的 `deepseek-r1` 点击，进入以下页面。
 
-<img src="./DeepSeek 本地运行指南.assets/e8da1cwl.png" style="zoom: 50%;" />
+![](https://cdn.luogu.com.cn/upload/image_hosting/e8da1cwl.png)
 
 接下来我们需要选择模型大小。
 
-<img src="https://cdn.luogu.com.cn/upload/image_hosting/57hm42uh.png" style="zoom:33%;" />
+![](https://cdn.luogu.com.cn/upload/image_hosting/57hm42uh.png)
 
 > Tips:
 >
@@ -65,7 +65,7 @@
 
 选择好模型之后，找到右边的指令，点击右边的复制按钮。
 
-<img src="https://cdn.luogu.com.cn/upload/image_hosting/66u87av2.png" style="zoom:50%;" />
+![](https://cdn.luogu.com.cn/upload/image_hosting/66u87av2.png)
 
 复制完成后，按下 `Ctrl` + `X`，选择**管理员终端**打开。~~（ `Win` + `R` CMD 也不是不行 ）~~
 
