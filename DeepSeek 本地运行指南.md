@@ -22,7 +22,7 @@
 
 ### 安装 Ollama
 
-戳这里的链接下载安装程序：[Windows](https://ollama.com/download/windows)	[Linux](https://ollama.com/download/linux)	 [macOS](https://ollama.com/download/mac)
+戳这里的链接下载安装程序：[Windows	](https://ollama.com/download/windows)[Linux](https://ollama.com/download/linux)	[macOS](https://ollama.com/download/mac)
 
 这里以 Windows 为例，打开安装程序之后点击 Install 就好了。
 
